@@ -1,6 +1,8 @@
 # Hi 👋, I'm Dhanya
 
-### 💻 Software Developer | Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=42&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Software+Developer;Crafting+Modern+Tech+Solutions;Turning+Ideas+Into+Reality;Building+Web+Applications" alt="Typing SVG" />
+</p>
 
 MCA graduate passionate about building web applications and learning new technologies. I enjoy working across frontend, backend, databases, and developing practical projects.
 
@@ -20,10 +22,10 @@ MCA graduate passionate about building web applications and learning new technol
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/dhanya15/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://dhanya-15.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>

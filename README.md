@@ -102,8 +102,8 @@ IoT-based garbage-level monitoring system using an ultrasonic sensor and ESP8266
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanya-15&show_icons=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya-15&theme=default" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ IoT-based garbage-level monitoring system using an ultrasonic sensor and ESP8266
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya-15&layout=compact&theme=default" />
 </p>
 
 ---

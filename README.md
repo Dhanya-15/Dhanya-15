@@ -21,14 +21,7 @@ MCA graduate passionate about building web applications and learning new technol
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dhanya15/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://dhanya-15.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/dhanya15/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://dhanya-15.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
